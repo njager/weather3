@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Game : MonoBehaviour
 {
+    //bleh
     //private variables
     private Rigidbody rB;
     bool isRaining;
